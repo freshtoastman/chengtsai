@@ -152,6 +152,9 @@ function renderLines(p, lines, lineHeight, side) {
   p.appendChild(wrapper)
 }
 
+// ── 原始 HTML 快取（供 resize 還原）──────────────────────
+var originalCache = []
+
 // ── 初始化：掃描文章內容 ──────────────────────────────────
 
 function initPretextWrap() {
@@ -205,6 +208,11 @@ function initPretextWrap() {
       var sibling = img.nextElementSibling
       while (sibling) {
         if (sibling.tagName === 'P' && sibling.textContent.trim()) {
+          // 快取原始 HTML（首次處理時）
+          if (!sibling.hasAttribute('data-pretext-cached')) {
+            originalCache.push({ el: sibling, html: sibling.innerHTML })
+            sibling.setAttribute('data-pretext-cached', '1')
+          }
           var rect = getImageRect(img, sibling)
           // 只處理與圖片有垂直重疊的段落
           if (rect.top < img.getBoundingClientRect().height + GAP) {
@@ -229,6 +237,19 @@ function initPretextWrap() {
   })
 }
 
+// ── 還原並重新排版 ────────────────────────────────────────
+
+function refitPretext() {
+  // 還原所有被處理過的段落
+  for (var i = 0; i < originalCache.length; i++) {
+    originalCache[i].el.innerHTML = originalCache[i].html
+    originalCache[i].el.removeAttribute('data-pretext-cached')
+  }
+  originalCache = []
+  // 重新排版
+  initPretextWrap()
+}
+
 // ── 啟動 ──────────────────────────────────────────────────
 
 if (document.readyState === 'loading') {
@@ -237,13 +258,13 @@ if (document.readyState === 'loading') {
   initPretextWrap()
 }
 
-// 視窗大小改變時重新排版（加上 debounce）
+// 視窗寬度改變時重新排版（忽略高度變化，避免手機滑動觸發）
+var lastWidth = window.innerWidth
 var resizeTimer
 window.addEventListener('resize', function () {
+  var newWidth = window.innerWidth
+  if (newWidth === lastWidth) return  // 只有高度變（手機地址欄）→ 忽略
+  lastWidth = newWidth
   clearTimeout(resizeTimer)
-  resizeTimer = setTimeout(function () {
-    // 重新載入頁面以重置排版（簡單做法）
-    // 進階做法可以快取原始文字並重新計算
-    location.reload()
-  }, 500)
+  resizeTimer = setTimeout(refitPretext, 500)
 })
