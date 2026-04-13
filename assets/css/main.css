@@ -167,6 +167,60 @@ nav.pagination,
   border-color: #1e3a8a;
 }
 
+/* --- Pretext Dynamic Layout --- */
+#post-entry img.pretext-left,
+#post-entry img.pretext-right {
+  max-width: 40%;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+#post-entry img.pretext-left {
+  float: left;
+  margin: 0.5em 20px 0.5em 0;
+}
+#post-entry img.pretext-right {
+  float: right;
+  margin: 0.5em 0 0.5em 20px;
+}
+#post-entry img.pretext-left:hover,
+#post-entry img.pretext-right:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+}
+.pretext-rendered {
+  overflow: hidden;
+}
+.pretext-line {
+  display: block;
+}
+
+/* --- Post paragraph highlight on hover --- */
+#post-entry p,
+#post-entry li,
+#post-entry blockquote {
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
+  border-radius: 6px;
+  padding: 2px 4px;
+  margin-left: -4px;
+  margin-right: -4px;
+}
+#post-entry p:hover,
+#post-entry li:hover,
+#post-entry blockquote:hover {
+  background-color: rgba(59, 130, 246, 0.06);
+  box-shadow: -4px 0 0 rgba(59, 130, 246, 0.3);
+}
+@media (max-width: 640px) {
+  #post-entry img.pretext-left,
+  #post-entry img.pretext-right {
+    float: none;
+    max-width: 100%;
+    margin: 1em 0;
+    display: block;
+  }
+}
+
 /* --- Brand Logo in articles (pretext-wrap) --- */
 .brand-logo {
   transition: opacity 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
