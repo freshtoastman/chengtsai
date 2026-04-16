@@ -6,160 +6,88 @@
     "feed_url": "https://freshtoastman.github.io/chengtsai/feed.json",
     "user_comment": "",
     "author": {
-        "name": "鄭才"
+        "name": "鄭才律師"
     },
     "items": [
         {
-            "id": "https://freshtoastman.github.io/chengtsai/ge-ren-zi-liao-bao-hu-fa-xiu-zheng-chong-dian-jie-xiqi-ye-ying-ru-he-yin-ying/index.html",
-            "url": "https://freshtoastman.github.io/chengtsai/ge-ren-zi-liao-bao-hu-fa-xiu-zheng-chong-dian-jie-xiqi-ye-ying-ru-he-yin-ying/index.html",
-            "title": "個人資料保護法修正重點解析：企業應如何因應",
-            "summary": "前言 隨著數位經濟蓬勃發展，個人資料的保護已成為全球關注的焦點。我國個人資料保護法（以下簡稱個資法）自施行以來，持續配合國際趨勢進行修正。本文針對近期修正重點進行解析，協助企業掌握法規變動方向。 某電商公司將會員資料提供予關係企業進行交叉行銷，未事先取得會員同意。經主管機關裁罰並令限期改善。 教訓：利用個資進行行銷，需有當事人之明確同意或符合法定例外事由。 某科技公司發生客戶資料外洩事件，未於法定期限內通報主管機關，經媒體披露後遭加重處罰。 教訓：建立資料外洩應變機制，確保通報流程暢通。 某求職平台要求應徵者提供身分證影本、銀行帳戶等非必要資料，違反最小蒐集原則。 教訓：蒐集個資應限於特定目的之必要範圍。 個資法的修正趨勢與國際接軌，企業面臨的合規要求將持續提高。建議企業及早啟動因應措施，將個資保護融入日常營運流程，不僅可避免高額罰鍰，更能提升客戶信任、強化品牌形象。如需進一步了解個資法對貴公司的具體影響，歡迎與本所聯繫。 免責聲明：本文僅供一般法律知識參考，不構成具體個案之法律意見。如有具體法律問題，請洽詢專業律師。",
-            "content_html": "<h2>前言</h2>\n<p>隨著數位經濟蓬勃發展，個人資料的保護已成為全球關注的焦點。我國個人資料保護法（以下簡稱個資法）自施行以來，持續配合國際趨勢進行修正。本文針對近期修正重點進行解析，協助企業掌握法規變動方向。</p>\n<h2>一、修正重點概覽</h2>\n<h3>1. 強化當事人權利</h3>\n<ul>\n<li><strong>資料可攜權</strong>：當事人得請求以結構化、通用格式取得其個人資料，並得請求將資料直接傳輸予第三人</li>\n<li><strong>被遺忘權的明確化</strong>：當事人得請求刪除其個人資料的情形更加明確</li>\n<li><strong>自動化決策的拒絕權</strong>：當事人得拒絕完全基於自動化處理（含剖析）所為之決定</li>\n</ul>\n<h3>2. 企業義務加重</h3>\n<ul>\n<li><strong>資料保護影響評估</strong>：處理大量個資或敏感個資前，應進行影響評估</li>\n<li><strong>資料外洩通報義務</strong>：發生個資外洩事件時，應於知悉後 <strong>72 小時內</strong> 通報主管機關，並通知當事人</li>\n<li><strong>指定資料保護專責人員</strong>：達一定規模之企業，應設置個人資料保護專責人員</li>\n</ul>\n<h3>3. 跨境傳輸規範</h3>\n<ul>\n<li>接收國之個資保護水準應經主管機關認定</li>\n<li>企業得透過標準契約條款、拘束性企業規則等機制進行跨境傳輸</li>\n<li>違反跨境傳輸規定之罰則加重</li>\n</ul>\n<h3>4. 罰則提高</h3>\n<table>\n<thead>\n<tr>\n<th>違規類型</th>\n<th>修正前</th>\n<th>修正後</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>非公務機關違反安全維護義務</td>\n<td>2-20 萬元</td>\n<td>10-100 萬元</td>\n</tr>\n<tr>\n<td>未依規定通報資料外洩</td>\n<td>無明文</td>\n<td>20-200 萬元</td>\n</tr>\n<tr>\n<td>違反跨境傳輸規定</td>\n<td>限制傳輸</td>\n<td>50-500 萬元</td>\n</tr>\n<tr>\n<td>情節重大者</td>\n<td>—</td>\n<td>按次處罰，並得命令停止蒐集</td>\n</tr>\n</tbody>\n</table>\n<h2>二、對企業的影響</h2>\n<h3>電商與零售業</h3>\n<ul>\n<li>需重新審視會員資料蒐集範圍，遵守最小蒐集原則</li>\n<li>Cookie 及行為追蹤需取得明確同意</li>\n<li>行銷活動中的個資利用需有合法基礎</li>\n</ul>\n<h3>金融與保險業</h3>\n<ul>\n<li>客戶資料的跨境傳輸需符合新規範</li>\n<li>自動化信用評分決策需提供人工審查機制</li>\n<li>KYC 程序蒐集的資料需明確告知利用範圍</li>\n</ul>\n<h3>醫療與生技業</h3>\n<ul>\n<li>健康資料屬敏感個資，處理前需進行影響評估</li>\n<li>研究用途之個資利用需經倫理審查</li>\n<li>基因資料的蒐集與處理有特別規定</li>\n</ul>\n<h3>科技與網路業</h3>\n<ul>\n<li>隱私政策需以清晰易懂的方式呈現</li>\n<li>App 權限取得需符合目的明確原則</li>\n<li>第三方 SDK 蒐集之個資，平台業者負共同責任</li>\n</ul>\n<h2>三、企業因應建議</h2>\n<h3>短期措施（3 個月內）</h3>\n<ol>\n<li><strong>盤點個資清冊</strong>：全面清查企業持有之個人資料類型、數量、來源及利用情形</li>\n<li><strong>檢視隱私政策</strong>：確認告知事項是否完整，同意機制是否合規</li>\n<li><strong>建立外洩通報流程</strong>：制定資料外洩應變計畫，確保能在 72 小時內完成通報</li>\n</ol>\n<h3>中期措施（6 個月內）</h3>\n<ol start=\"4\">\n<li><strong>員工教育訓練</strong>：對全體員工進行個資保護意識培訓</li>\n<li><strong>修訂相關合約</strong>：檢視與供應商、合作夥伴間的資料處理合約</li>\n<li><strong>技術面強化</strong>：加密、存取控制、日誌記錄等技術措施</li>\n</ol>\n<h3>長期措施（1 年內）</h3>\n<ol start=\"7\">\n<li><strong>建立個資管理制度</strong>：參考 ISO 27701 等國際標準，建立系統化管理制度</li>\n<li><strong>定期稽核與評估</strong>：每年至少進行一次個資保護稽核</li>\n<li><strong>指定專責人員</strong>：依規模設置個資保護長（DPO）或專責單位</li>\n</ol>\n<h2>四、常見違規態樣</h2>\n<h3>案例一：未經同意行銷</h3>\n<p>某電商公司將會員資料提供予關係企業進行交叉行銷，未事先取得會員同意。經主管機關裁罰並令限期改善。</p>\n<p><strong>教訓</strong>：利用個資進行行銷，需有當事人之明確同意或符合法定例外事由。</p>\n<h3>案例二：資料外洩未通報</h3>\n<p>某科技公司發生客戶資料外洩事件，未於法定期限內通報主管機關，經媒體披露後遭加重處罰。</p>\n<p><strong>教訓</strong>：建立資料外洩應變機制，確保通報流程暢通。</p>\n<h3>案例三：過度蒐集個資</h3>\n<p>某求職平台要求應徵者提供身分證影本、銀行帳戶等非必要資料，違反最小蒐集原則。</p>\n<p><strong>教訓</strong>：蒐集個資應限於特定目的之必要範圍。</p>\n<h2>結語</h2>\n<p>個資法的修正趨勢與國際接軌，企業面臨的合規要求將持續提高。建議企業及早啟動因應措施，將個資保護融入日常營運流程，不僅可避免高額罰鍰，更能提升客戶信任、強化品牌形象。如需進一步了解個資法對貴公司的具體影響，歡迎與本所聯繫。</p>\n<blockquote>\n<p><strong>免責聲明</strong>：本文僅供一般法律知識參考，不構成具體個案之法律意見。如有具體法律問題，請洽詢專業律師。</p>\n</blockquote>",
-            "image": "https://freshtoastman.github.io/chengtsai/media/posts/16/pic01.png",
+            "id": "https://freshtoastman.github.io/chengtsai/che-huo-hou-yao-mian-dui-na-xie-ze-renxing-shimin-shixing-zheng-yi-ci-dong/index.html",
+            "url": "https://freshtoastman.github.io/chengtsai/che-huo-hou-yao-mian-dui-na-xie-ze-renxing-shimin-shixing-zheng-yi-ci-dong/index.html",
+            "title": "法律新聞趨勢-刑事、民事、行政一次懂",
+            "summary": "重點摘要 車禍可能涉及過失傷害（刑事）、損害賠償（民事）與交通裁罰（行政），第一時間務必報警與保全證據。 參考連結：臺灣高等檢察署－車禍過失傷害處理",
+            "content_html": "<article class=\"post legal-post\"><header>\n<h1> </h1>\n</header>\n<section>\n<h2>重點摘要</h2>\n<p>車禍可能涉及過失傷害（刑事）、損害賠償（民事）與交通裁罰（行政），第一時間務必報警與保全證據。</p>\n</section>\n<footer>\n<p>參考連結：<a href=\"https://www.tph.moj.gov.tw/4421/4475/632364/1267509/post\" target=\"_blank\" rel=\"noopener\">臺灣高等檢察署－車禍過失傷害處理</a></p>\n</footer></article>",
+            "image": "https://freshtoastman.github.io/chengtsai/media/posts/21/05-car-accident.jpg",
             "author": {
-                "name": "鄭才"
+                "name": "鄭才律師"
             },
             "tags": [
-                   "法律顧問"
+                   "法律新聞趨勢"
             ],
-            "date_published": "2026-03-30T23:27:39+08:00",
-            "date_modified": "2026-04-13T17:59:31+08:00"
+            "date_published": "2026-04-16T14:34:22+08:00",
+            "date_modified": "2026-04-16T14:39:37+08:00"
         },
         {
-            "id": "https://freshtoastman.github.io/chengtsai/divorce-property-distribution-surplus-claim/index.html",
-            "url": "https://freshtoastman.github.io/chengtsai/divorce-property-distribution-surplus-claim/index.html",
-            "title": "離婚訴訟中的財產分配與剩餘財產差額分配請求權",
-            "summary": "離婚訴訟中的財產問題，往往是當事人最關心也最複雜的議題。依民法規定，法定財產制下的夫妻，於離婚時有剩餘財產差額分配請求權，即財產較少的一方得向對方請求補足差額之半數。 計算剩餘財產時，應扣除婚前財產及因繼承或無償取得的財產，僅計算婚姻關係存續中的財產增值。雙方均有義務據實申報財產，若一方有隱匿財產的嫌疑，另一方得聲請法院調查。 實務上，股票、不動產、退休金及公司股份的評價方式，常成為爭議焦點。法院通常委請不動產鑑定師或會計師進行估算，當事人亦可自行委託鑑定以爭取有利評價。 本所家事律師在財產分配訴訟上有豐富的代理經驗，從財產調查、訴訟策略制定到庭外和解協商，均能提供專業協助。",
-            "content_html": "<p>離婚訴訟中的財產問題，往往是當事人最關心也最複雜的議題。依民法規定，法定財產制下的夫妻，於離婚時有剩餘財產差額分配請求權，即財產較少的一方得向對方請求補足差額之半數。</p>\n<p>計算剩餘財產時，應扣除婚前財產及因繼承或無償取得的財產，僅計算婚姻關係存續中的財產增值。雙方均有義務據實申報財產，若一方有隱匿財產的嫌疑，另一方得聲請法院調查。</p>\n<p>實務上，股票、不動產、退休金及公司股份的評價方式，常成為爭議焦點。法院通常委請不動產鑑定師或會計師進行估算，當事人亦可自行委託鑑定以爭取有利評價。</p>\n<p>本所家事律師在財產分配訴訟上有豐富的代理經驗，從財產調查、訴訟策略制定到庭外和解協商，均能提供專業協助。</p>",
-            "image": "https://freshtoastman.github.io/chengtsai/media/posts/126/pic01.png",
+            "id": "https://freshtoastman.github.io/chengtsai/zhi-biao-zhu-chu-chu-jiu-bu-qin-quanzhu-zuo-quan-he-li-shi-yong-jie-xi/index.html",
+            "url": "https://freshtoastman.github.io/chengtsai/zhi-biao-zhu-chu-chu-jiu-bu-qin-quanzhu-zuo-quan-he-li-shi-yong-jie-xi/index.html",
+            "title": "法律知識分享-著作權合理使用解析",
+            "summary": "重點摘要 合理使用需整體判斷，不是只標來源就一定合法；需符合目的、比例、市場影響等要件。 參考連結：智慧財產局－著作權基本概念",
+            "content_html": "<article class=\"post legal-post\">\n<figure>\n<figcaption></figcaption>\n</figure>\n<section>\n<h2>重點摘要</h2>\n<p>合理使用需整體判斷，不是只標來源就一定合法；需符合目的、比例、市場影響等要件。</p>\n</section>\n<footer>\n<p>參考連結：<a href=\"https://www.tipo.gov.tw/tw/tipo1/209-21673.html\" target=\"_blank\" rel=\"noopener\">智慧財產局－著作權基本概念</a></p>\n</footer></article>",
+            "image": "https://freshtoastman.github.io/chengtsai/media/posts/20/04-copyright.jpg",
             "author": {
-                "name": "蕭皓軒"
+                "name": "鄭才律師"
             },
             "tags": [
-                   "家事繼承、扶養"
+                   "法律知識分享"
             ],
-            "date_published": "2026-03-05T19:45:22+08:00",
-            "date_modified": "2026-04-13T18:01:06+08:00"
+            "date_published": "2026-04-16T14:33:58+08:00",
+            "date_modified": "2026-04-16T14:39:07+08:00"
         },
         {
-            "id": "https://freshtoastman.github.io/chengtsai/land-expropriation-compensation-dispute/index.html",
-            "url": "https://freshtoastman.github.io/chengtsai/land-expropriation-compensation-dispute/index.html",
-            "title": "土地徵收補償爭議的行政救濟途徑",
-            "summary": "政府依土地徵收條例徵收私人土地，地主雖無法拒絕徵收，但有權就補償金額是否合理提起爭議。若認為補償地價低於市場行情，得申請「地價補償查估」程序要求重新計算。 對補償金額仍有異議者，可向直轄市或縣市政府提出異議，進一步提起訴願及行政訴訟。訴訟中地主得聲請法院委託不動產鑑定機構進行鑑價，以客觀數據支持主張。 除補償金額外，徵收程序是否符合「必要性原則」及「比例原則」，亦可作為爭訟基礎。近年有地主以徵收計畫不合比例為由提起訴訟並獲行政法院支持的案例。 本所熟悉土地徵收相關法規及行政法院實務，可協助地主全面評估救濟策略，包含行政救濟與國家賠償的可能性。",
-            "content_html": "<p>政府依土地徵收條例徵收私人土地，地主雖無法拒絕徵收，但有權就補償金額是否合理提起爭議。若認為補償地價低於市場行情，得申請「地價補償查估」程序要求重新計算。</p>\n<p>對補償金額仍有異議者，可向直轄市或縣市政府提出異議，進一步提起訴願及行政訴訟。訴訟中地主得聲請法院委託不動產鑑定機構進行鑑價，以客觀數據支持主張。</p>\n<p>除補償金額外，徵收程序是否符合「必要性原則」及「比例原則」，亦可作為爭訟基礎。近年有地主以徵收計畫不合比例為由提起訴訟並獲行政法院支持的案例。</p>\n<p>本所熟悉土地徵收相關法規及行政法院實務，可協助地主全面評估救濟策略，包含行政救濟與國家賠償的可能性。</p>",
+            "id": "https://freshtoastman.github.io/chengtsai/ge-zi-fa-xiu-fa-houqi-ye-zui-gai-zhu-yi-de-san-jian-shi/index.html",
+            "url": "https://freshtoastman.github.io/chengtsai/ge-zi-fa-xiu-fa-houqi-ye-zui-gai-zhu-yi-de-san-jian-shi/index.html",
+            "title": "刑事訴訟－企業最該注意的三件事",
+            "summary": "重點摘要 新制強化事故通報、主管機關監理與跨境資料管理，企業需建立內部通報SOP與紀錄流程。 參考連結：全國法規資料庫（個人資料保護法）",
+            "content_html": "<article class=\"post legal-post\">\n<figure>\n<figcaption></figcaption>\n</figure>\n<section>\n<h2>重點摘要</h2>\n<p>新制強化事故通報、主管機關監理與跨境資料管理，企業需建立內部通報SOP與紀錄流程。</p>\n</section>\n<footer>\n<p>參考連結：<a href=\"https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021\" target=\"_blank\" rel=\"noopener\">全國法規資料庫（個人資料保護法）</a></p>\n</footer></article>",
+            "image": "https://freshtoastman.github.io/chengtsai/media/posts/19/03-privacy.jpg",
             "author": {
-                "name": "陳昆鴻"
+                "name": "鄭才律師"
             },
             "tags": [
-                   "行政訴訟"
+                   "刑事訴訟-成功案例"
             ],
-            "date_published": "2026-02-11T13:11:57+08:00",
-            "date_modified": "2026-02-11T13:11:57+08:00"
+            "date_published": "2026-04-16T14:33:32+08:00",
+            "date_modified": "2026-04-16T14:38:17+08:00"
         },
         {
-            "id": "https://freshtoastman.github.io/chengtsai/employee-personal-data-collection-legal-limits/index.html",
-            "url": "https://freshtoastman.github.io/chengtsai/employee-personal-data-collection-legal-limits/index.html",
-            "title": "員工個人資料蒐集的合法邊界",
-            "summary": "企業在人力資源管理中不可避免地蒐集大量員工個人資料，包含履歷資料、薪資、考勤、績效評估等。然而，這些資料的蒐集與利用必須符合個資法的特定目的及必要性原則。 企業蒐集員工個資的合法依據，通常為執行勞動契約的必要性，或依法律規定的義務（如提供健保、勞保等）。若要蒐集敏感性個資（如健康狀況、犯罪紀錄），則須取得書面同意。 特別注意的是，企業安裝監控設備（攝影機、螢幕監控）或追蹤員工位置，涉及對員工隱私的重大干預，應在工作規則中明確說明，並符合比例原則，不得過度監控。 本所協助企業審查勞動合約與工作規則中的個資條款，確保員工資料蒐集合法合規，同時兼顧人力資源管理的實際需求。",
-            "content_html": "<p>企業在人力資源管理中不可避免地蒐集大量員工個人資料，包含履歷資料、薪資、考勤、績效評估等。然而，這些資料的蒐集與利用必須符合個資法的特定目的及必要性原則。</p>\n<p>企業蒐集員工個資的合法依據，通常為執行勞動契約的必要性，或依法律規定的義務（如提供健保、勞保等）。若要蒐集敏感性個資（如健康狀況、犯罪紀錄），則須取得書面同意。</p>\n<p>特別注意的是，企業安裝監控設備（攝影機、螢幕監控）或追蹤員工位置，涉及對員工隱私的重大干預，應在工作規則中明確說明，並符合比例原則，不得過度監控。</p>\n<p>本所協助企業審查勞動合約與工作規則中的個資條款，確保員工資料蒐集合法合規，同時兼顧人力資源管理的實際需求。</p>",
+            "id": "https://freshtoastman.github.io/chengtsai/lao-ji-fa-jia-ban-fei-zen-mo-suanchang-jian-bei-lu-yu-xian-jing/index.html",
+            "url": "https://freshtoastman.github.io/chengtsai/lao-ji-fa-jia-ban-fei-zen-mo-suanchang-jian-bei-lu-yu-xian-jing/index.html",
+            "title": "家事法律-常見倍率與陷阱",
+            "summary": "重點摘要 平日前2小時通常以1.33倍計算，第3-4小時以1.67倍計算；休息日與國定假日另有不同規則。 參考連結：法律010－加班費計算圖表",
+            "content_html": "<article class=\"post legal-post\">\n<figure class=\"post__image\">\n<figcaption></figcaption>\n</figure>\n<section>\n<h2>重點摘要</h2>\n<p>平日前2小時通常以1.33倍計算，第3-4小時以1.67倍計算；休息日與國定假日另有不同規則。</p>\n</section>\n<footer>\n<p>參考連結：<a href=\"https://laws010.com/blog/labor-dispute/work-overtime/work-overtime-02\" target=\"_blank\" rel=\"noopener\">法律010－加班費計算圖表</a></p>\n</footer></article>",
+            "image": "https://freshtoastman.github.io/chengtsai/media/posts/18/02-overtime.jpg",
             "author": {
-                "name": "李孟哲"
+                "name": "鄭才律師"
             },
             "tags": [
-                   "法律顧問"
+                   "家事訴訟-成功案例"
             ],
-            "date_published": "2026-02-09T08:06:18+08:00",
-            "date_modified": "2026-02-09T08:06:18+08:00"
+            "date_published": "2026-04-16T14:32:29+08:00",
+            "date_modified": "2026-04-16T14:37:51+08:00"
         },
         {
-            "id": "https://freshtoastman.github.io/chengtsai/wage-severance-pay-recovery-practice/index.html",
-            "url": "https://freshtoastman.github.io/chengtsai/wage-severance-pay-recovery-practice/index.html",
-            "title": "積欠薪資與資遣費的追討實務",
-            "summary": "當雇主積欠薪資或資遣費時，勞工有多種法律途徑可循。最直接的方式是向勞動主管機關申訴，由勞檢員介入調查；若調解不成，可進一步向法院提起民事訴訟。 薪資請求權的消滅時效為5年，資遣費則應於終止勞動契約後30日內給付，逾期加付利息。勞工在追討薪資時，應保存工資單、出勤紀錄及相關通訊紀錄等證據。 若雇主面臨財務困難甚至倒閉，勞工可申請「積欠工資墊償制度」，由主管機關在一定額度內代為墊付薪資，保障勞工的基本生活。墊償後主管機關取得對雇主的求償權。 本所勞動法律師熟悉薪資追討的各項程序，包含勞動局申訴、勞資爭議調解及法院訴訟，能為勞工提供快速有效的法律援助。",
-            "content_html": "<p>當雇主積欠薪資或資遣費時，勞工有多種法律途徑可循。最直接的方式是向勞動主管機關申訴，由勞檢員介入調查；若調解不成，可進一步向法院提起民事訴訟。</p>\n<p>薪資請求權的消滅時效為5年，資遣費則應於終止勞動契約後30日內給付，逾期加付利息。勞工在追討薪資時，應保存工資單、出勤紀錄及相關通訊紀錄等證據。</p>\n<p>若雇主面臨財務困難甚至倒閉，勞工可申請「積欠工資墊償制度」，由主管機關在一定額度內代為墊付薪資，保障勞工的基本生活。墊償後主管機關取得對雇主的求償權。</p>\n<p>本所勞動法律師熟悉薪資追討的各項程序，包含勞動局申訴、勞資爭議調解及法院訴訟，能為勞工提供快速有效的法律援助。</p>",
+            "id": "https://freshtoastman.github.io/chengtsai/qi-yue-zi-you-yuan-ze-shi-shi-momin-fa-shi-wu-chong-dian-yi-ci-kan/index.html",
+            "url": "https://freshtoastman.github.io/chengtsai/qi-yue-zi-you-yuan-ze-shi-shi-momin-fa-shi-wu-chong-dian-yi-ci-kan/index.html",
+            "title": "民事-民法實務重點一次看",
+            "summary": "契約自由原則源於私法自治，當事人可自由決定締約對象、內容與形式，但不得違反強制規定或公序良俗。 參考連結：台灣法律網－契約自由原則判決說明",
+            "content_html": "<article class=\"post legal-post\"><header>\n<p> </p>\n</header>\n<figure><br>\n<figcaption></figcaption>\n</figure>\n<section>\n<h2>重點摘要</h2>\n<p>契約自由原則源於私法自治，當事人可自由決定締約對象、內容與形式，但不得違反強制規定或公序良俗。</p>\n</section>\n<footer>\n<p>參考連結：<a href=\"https://www.lawtw.com/archives/465183\" target=\"_blank\" rel=\"noopener\">台灣法律網－契約自由原則判決說明</a></p>\n</footer></article>",
+            "image": "https://freshtoastman.github.io/chengtsai/media/posts/17/01-contract.jpg",
             "author": {
-                "name": "李旃葭"
+                "name": "鄭才律師"
             },
             "tags": [
-                   "勞資糾紛"
+                   "民事訴訟-成功案例"
             ],
-            "date_published": "2026-02-01T23:28:37+08:00",
-            "date_modified": "2026-02-01T23:28:37+08:00"
-        },
-        {
-            "id": "https://freshtoastman.github.io/chengtsai/fraud-crime-elements-defense-strategy/index.html",
-            "url": "https://freshtoastman.github.io/chengtsai/fraud-crime-elements-defense-strategy/index.html",
-            "title": "詐欺罪的構成要件與常見辯護策略",
-            "summary": "詐欺罪依刑法第339條規定，以意圖為自己或第三人不法之所有，以詐術使人陷於錯誤而交付財物為構成要件。其中「詐術」與「陷於錯誤」的因果關係，是實務上最常爭執的核心。 常見的辯護方向包含：主張行為人無不法意圖（如誤信自身陳述為真）、否認詐術與損害間的因果關係、主張被害人自願承擔風險，或指出契約爭議屬民事糾紛而非刑事詐欺。 商業往來中的違約行為，並非當然構成詐欺。法院在區分民事債務不履行與刑事詐欺時，重點在於行為人在締約之初是否已有詐欺故意，若僅是事後無力履行，不宜以詐欺罪相繩。 面對詐欺指控，應立即委任律師閱覽卷宗、蒐集有利事證，並準備完整的書面辯護意旨，本所律師將為您量身規劃最有效的辯護方案。",
-            "content_html": "<p>詐欺罪依刑法第339條規定，以意圖為自己或第三人不法之所有，以詐術使人陷於錯誤而交付財物為構成要件。其中「詐術」與「陷於錯誤」的因果關係，是實務上最常爭執的核心。</p>\n<p>常見的辯護方向包含：主張行為人無不法意圖（如誤信自身陳述為真）、否認詐術與損害間的因果關係、主張被害人自願承擔風險，或指出契約爭議屬民事糾紛而非刑事詐欺。</p>\n<p>商業往來中的違約行為，並非當然構成詐欺。法院在區分民事債務不履行與刑事詐欺時，重點在於行為人在締約之初是否已有詐欺故意，若僅是事後無力履行，不宜以詐欺罪相繩。</p>\n<p>面對詐欺指控，應立即委任律師閱覽卷宗、蒐集有利事證，並準備完整的書面辯護意旨，本所律師將為您量身規劃最有效的辯護方案。</p>",
-            "author": {
-                "name": "李孟哲"
-            },
-            "tags": [
-                   "刑事辯護"
-            ],
-            "date_published": "2026-01-31T13:33:31+08:00",
-            "date_modified": "2026-01-31T13:33:31+08:00"
-        },
-        {
-            "id": "https://freshtoastman.github.io/chengtsai/administrative-disposition-revocation-lawsuit/index.html",
-            "url": "https://freshtoastman.github.io/chengtsai/administrative-disposition-revocation-lawsuit/index.html",
-            "title": "行政處分的撤銷訴訟與法定期間注意事項",
-            "summary": "行政機關作成的行政處分，若人民認為違法或不當而損害其權利，得依行政訴訟法提起撤銷訴訟。惟起訴前必須先完成訴願程序，否則行政法院將裁定不受理。 訴願期間為收受行政處分書之次日起30日內，逾期則訴願權喪失，行政處分將告確定。因此，收受處分後應立即聯繫律師評估是否提出訴願，切勿拖延。 在撤銷訴訟中，人民需證明行政處分違反法律或一般法律原則，如比例原則、平等原則、信賴保護原則等。法院審查的重點包含處分的法律依據、事實認定是否正確，以及裁量有無濫用。 本所行政法律師熟悉各行政機關的實務操作，能協助您快速評估案件勝算、撰寫訴願書及行政訴訟起訴狀，守護您對抗不當行政處分的權利。",
-            "content_html": "<p>行政機關作成的行政處分，若人民認為違法或不當而損害其權利，得依行政訴訟法提起撤銷訴訟。惟起訴前必須先完成訴願程序，否則行政法院將裁定不受理。</p>\n<p>訴願期間為收受行政處分書之次日起30日內，逾期則訴願權喪失，行政處分將告確定。因此，收受處分後應立即聯繫律師評估是否提出訴願，切勿拖延。</p>\n<p>在撤銷訴訟中，人民需證明行政處分違反法律或一般法律原則，如比例原則、平等原則、信賴保護原則等。法院審查的重點包含處分的法律依據、事實認定是否正確，以及裁量有無濫用。</p>\n<p>本所行政法律師熟悉各行政機關的實務操作，能協助您快速評估案件勝算、撰寫訴願書及行政訴訟起訴狀，守護您對抗不當行政處分的權利。</p>",
-            "author": {
-                "name": "李孟哲"
-            },
-            "tags": [
-                   "行政訴訟"
-            ],
-            "date_published": "2026-01-31T11:04:08+08:00",
-            "date_modified": "2026-01-31T11:04:08+08:00"
-        },
-        {
-            "id": "https://freshtoastman.github.io/chengtsai/enterprise-personal-data-protection-compliance/index.html",
-            "url": "https://freshtoastman.github.io/chengtsai/enterprise-personal-data-protection-compliance/index.html",
-            "title": "企業個人資料保護的合規架構建立",
-            "summary": "個人資料保護法要求企業在蒐集、處理及利用個人資料時，須具備特定目的並符合法定要件。企業若未能建立完善的個資合規架構，面臨資料外洩或投訴時，將承擔重大法律責任。 合規架構的建立應從資料盤點開始：企業需梳理所持有的個人資料類型、蒐集來源、儲存方式及對外提供的情況，並依此建立個資檔案清冊。 隱私權政策的制定、資料主體權利的回應機制（如查閱、更正、刪除請求），以及委外廠商的個資管理，均是合規架構的重要組成部分。企業應定期進行內部稽核，確保制度落實。 本所提供個資法合規諮詢、隱私政策審閱、員工教育訓練規劃及資料外洩事件應急處理等全方位服務，協助企業降低個資法律風險。",
-            "content_html": "<p>個人資料保護法要求企業在蒐集、處理及利用個人資料時，須具備特定目的並符合法定要件。企業若未能建立完善的個資合規架構，面臨資料外洩或投訴時，將承擔重大法律責任。</p>\n<p>合規架構的建立應從資料盤點開始：企業需梳理所持有的個人資料類型、蒐集來源、儲存方式及對外提供的情況，並依此建立個資檔案清冊。</p>\n<p>隱私權政策的制定、資料主體權利的回應機制（如查閱、更正、刪除請求），以及委外廠商的個資管理，均是合規架構的重要組成部分。企業應定期進行內部稽核，確保制度落實。</p>\n<p>本所提供個資法合規諮詢、隱私政策審閱、員工教育訓練規劃及資料外洩事件應急處理等全方位服務，協助企業降低個資法律風險。</p>",
-            "author": {
-                "name": "蕭皓軒"
-            },
-            "tags": [
-                   "法律顧問"
-            ],
-            "date_published": "2026-01-29T09:00:38+08:00",
-            "date_modified": "2026-01-29T09:00:38+08:00"
-        },
-        {
-            "id": "https://freshtoastman.github.io/chengtsai/criminal-investigation-right-to-silence/index.html",
-            "url": "https://freshtoastman.github.io/chengtsai/criminal-investigation-right-to-silence/index.html",
-            "title": "刑事偵查階段的緘默權與辯護人陪同權",
-            "summary": "在刑事偵查程序中，被告或犯罪嫌疑人享有緘默權，即對於司法警察、檢察官的訊問，有拒絕陳述而不受不利推論的權利。這是刑事訴訟法第95條明文保障的基本人權。 除緘默權外，當事人在偵查中有權選任辯護人並要求辯護人陪同在場，以確保訊問過程合法進行。一旦警方開始進行正式訊問，當事人應立即要求停止訊問並聯繫律師。 實務上，許多當事人在未充分了解自身權利的情況下，於偵查初期作出不利陳述，導致後續辯護困難。越早介入，辯護律師越能有效保全對當事人有利的證據並阻斷不利供詞。 本所刑事辯護團隊提供24小時緊急法律諮詢，無論偵查、起訴或審判階段，均能迅速介入，全力守護當事人的訴訟權利。",
-            "content_html": "<p>在刑事偵查程序中，被告或犯罪嫌疑人享有緘默權，即對於司法警察、檢察官的訊問，有拒絕陳述而不受不利推論的權利。這是刑事訴訟法第95條明文保障的基本人權。</p>\n<p>除緘默權外，當事人在偵查中有權選任辯護人並要求辯護人陪同在場，以確保訊問過程合法進行。一旦警方開始進行正式訊問，當事人應立即要求停止訊問並聯繫律師。</p>\n<p>實務上，許多當事人在未充分了解自身權利的情況下，於偵查初期作出不利陳述，導致後續辯護困難。越早介入，辯護律師越能有效保全對當事人有利的證據並阻斷不利供詞。</p>\n<p>本所刑事辯護團隊提供24小時緊急法律諮詢，無論偵查、起訴或審判階段，均能迅速介入，全力守護當事人的訴訟權利。</p>",
-            "author": {
-                "name": "陳昆鴻"
-            },
-            "tags": [
-                   "刑事辯護"
-            ],
-            "date_published": "2026-01-20T02:38:20+08:00",
-            "date_modified": "2026-01-20T02:38:20+08:00"
-        },
-        {
-            "id": "https://freshtoastman.github.io/chengtsai/corporate-officer-negligence-criminal-risk/index.html",
-            "url": "https://freshtoastman.github.io/chengtsai/corporate-officer-negligence-criminal-risk/index.html",
-            "title": "企業負責人的業務過失責任與刑事風險管理",
-            "summary": "企業負責人在執行業務過程中，若因疏失導致他人傷亡或財產損失，可能面臨業務過失傷害、業務過失致死等刑事責任。隨著職場安全法規日趨嚴格，相關訴訟案件也逐年增加。 實務上，檢察官往往透過調查事故現場、勞動檢查紀錄及企業內部文件，追究負責人是否盡到監督義務。負責人即使非直接行為人，仍可能因管理疏失而遭刑事追訴。 企業應建立完善的職業安全衛生管理制度，定期辦理風險評估與安全訓練，並保存完整的合規紀錄，以備不時之需。一旦發生重大工安事故，應立即啟動危機應對機制，由法律顧問介入指導。 本所為多家企業提供刑事風險預防諮詢，協助建立合規體系，並在事故發生後提供及時有效的刑事辯護服務。",
-            "content_html": "<p>企業負責人在執行業務過程中，若因疏失導致他人傷亡或財產損失，可能面臨業務過失傷害、業務過失致死等刑事責任。隨著職場安全法規日趨嚴格，相關訴訟案件也逐年增加。</p>\n<p>實務上，檢察官往往透過調查事故現場、勞動檢查紀錄及企業內部文件，追究負責人是否盡到監督義務。負責人即使非直接行為人，仍可能因管理疏失而遭刑事追訴。</p>\n<p>企業應建立完善的職業安全衛生管理制度，定期辦理風險評估與安全訓練，並保存完整的合規紀錄，以備不時之需。一旦發生重大工安事故，應立即啟動危機應對機制，由法律顧問介入指導。</p>\n<p>本所為多家企業提供刑事風險預防諮詢，協助建立合規體系，並在事故發生後提供及時有效的刑事辯護服務。</p>",
-            "author": {
-                "name": "李旃葭"
-            },
-            "tags": [
-                   "刑事辯護"
-            ],
-            "date_published": "2026-01-06T12:38:10+08:00",
-            "date_modified": "2026-01-06T12:38:10+08:00"
+            "date_published": "2026-04-16T14:31:33+08:00",
+            "date_modified": "2026-04-16T14:37:11+08:00"
         }
     ]
 }

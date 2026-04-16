@@ -112,21 +112,16 @@ html {
 }
 
 /* --- CTA social hover colors --- */
-.cta-social .cta-social__svg { color: #94a3b8; }
-
 .cta-line:hover { border-color: #06C755; background: rgba(6,199,85,0.05); }
-.cta-line:hover .cta-social__icon { background: #06C755; }
-.cta-line:hover .cta-social__svg { color: #fff; }
+.cta-line:hover .cta-social__icon { transform: scale(1.1); }
 .cta-line:hover .cta-social__title { color: #06C755; }
 
 .cta-fb:hover { border-color: #1877F2; background: rgba(24,119,242,0.05); }
-.cta-fb:hover .cta-social__icon { background: #1877F2; }
-.cta-fb:hover .cta-social__svg { color: #fff; }
+.cta-fb:hover .cta-social__icon { transform: scale(1.1); }
 .cta-fb:hover .cta-social__title { color: #1877F2; }
 
 .cta-ig:hover { border-color: #E4405F; background: rgba(228,64,95,0.05); }
-.cta-ig:hover .cta-social__icon { background: linear-gradient(135deg, #f9ce34, #ee2a7b, #6228d7); }
-.cta-ig:hover .cta-social__svg { color: #fff; }
+.cta-ig:hover .cta-social__icon { transform: scale(1.1); }
 .cta-ig:hover .cta-social__title { color: #E4405F; }
 
 /* --- Back to top button visible state --- */
