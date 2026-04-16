@@ -248,6 +248,210 @@ nav.pagination,
 
 .post__video {}
 .post__iframe {}
+
+/* ============================================================
+   Lawyer Profile — 作者 / 團隊描述 HTML 排版
+   ============================================================ */
+.lawyer-profile h2 {
+  font-size: 0.65rem;
+  font-weight: 900;
+  color: #60a5fa;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  margin: 0 0 0.25rem;
+}
+.lawyer-profile h3 {
+  font-size: 1.5rem;
+  font-weight: 900;
+  color: #ffffff;
+  margin: 0 0 1.25rem;
+  letter-spacing: -0.025em;
+}
+.lawyer-profile h4 {
+  font-size: 0.65rem;
+  font-weight: 900;
+  color: #60a5fa;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  margin: 1.75rem 0 0.75rem;
+}
+.lawyer-profile p {
+  color: #cbd5e1;
+  font-size: 0.875rem;
+  line-height: 1.75;
+  margin: 0 0 0.75rem;
+}
+.lawyer-profile ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.5rem 2rem;
+}
+@media (max-width: 640px) {
+  .lawyer-profile ul {
+    grid-template-columns: 1fr;
+  }
+}
+.lawyer-profile li {
+  color: #94a3b8;
+  font-size: 0.875rem;
+  padding-left: 1.5rem;
+  position: relative;
+}
+.lawyer-profile li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55em;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background: #3b82f6;
+}
+.author-desc h2 {
+  font-size: 0.65rem;
+  font-weight: 900;
+  color: #60a5fa;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  margin: 1.5rem 0 0.25rem;
+}
+.author-desc h3 {
+  font-size: 1.25rem;
+  font-weight: 900;
+  color: #ffffff;
+  margin: 0 0 1rem;
+}
+.author-desc h4 {
+  font-size: 0.65rem;
+  font-weight: 900;
+  color: #60a5fa;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  margin: 1.25rem 0 0.5rem;
+}
+.author-desc p {
+  color: #94a3b8;
+  font-size: 0.9375rem;
+  line-height: 1.75;
+  margin: 0 0 0.5rem;
+}
+.author-desc ul {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+}
+.author-desc li {
+  color: #94a3b8;
+  font-size: 0.875rem;
+  padding: 0.25rem 0 0.25rem 1.5rem;
+  position: relative;
+}
+.author-desc li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.7em;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background: #3b82f6;
+}
+.author-desc section {
+  text-align: left;
+}
+
+/* ── 作者頁描述（白色背景獨立區塊） ── */
+.author-desc--light h2 {
+  font-size: 0.7rem;
+  font-weight: 900;
+  color: #2563eb;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  margin: 0 0 0.5rem;
+}
+.author-desc--light h3 {
+  font-size: 1.75rem;
+  font-weight: 900;
+  color: #0f172a;
+  margin: 0 0 1.5rem;
+  letter-spacing: -0.025em;
+}
+.author-desc--light h4 {
+  font-size: 0.7rem;
+  font-weight: 900;
+  color: #2563eb;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  margin: 2rem 0 0.75rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e2e8f0;
+}
+.author-desc--light p,
+.author-desc--light .lawyer-profile p {
+  color: #475569;
+  font-size: 1rem;
+  line-height: 1.85;
+  margin: 0 0 1rem;
+}
+.author-desc--light ul {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.5rem 2rem;
+}
+@media (max-width: 640px) {
+  .author-desc--light ul {
+    grid-template-columns: 1fr;
+  }
+}
+.author-desc--light li {
+  color: #334155;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  padding: 0.4rem 0 0.4rem 1.75rem;
+  position: relative;
+}
+.author-desc--light li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.75em;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background: #2563eb;
+}
+
+/* ── 文章頁作者簡介 — 壓平 HTML 為單行摘要 ── */
+.post-author-bio h1, .post-author-bio h2, .post-author-bio h3,
+.post-author-bio h4, .post-author-bio h5, .post-author-bio h6 {
+  display: none;
+}
+.post-author-bio section { display: inline; }
+.post-author-bio p { display: inline; color: #64748b; }
+.post-author-bio p::after { content: " "; }
+.post-author-bio ul, .post-author-bio ol {
+  display: none;
+}
+.post-author-bio br { display: none; }
+.post-author-bio .lawyer-profile p { color: #64748b; }
+
+/* ── 團隊卡片摘要 — 覆蓋 .lawyer-profile 排版 ── */
+.team-card-desc .lawyer-profile p { color: #64748b; display: inline; }
+.team-card-desc .lawyer-profile h2,
+.team-card-desc .lawyer-profile h3 { display: none; }
+.team-card-desc .lawyer-profile h4 { display: none; }
+.team-card-desc .lawyer-profile ul { display: inline; list-style: none; padding: 0; margin: 0; }
+.team-card-desc .lawyer-profile li { display: inline; padding-left: 0; }
+.team-card-desc .lawyer-profile li::before { display: none; }
+.team-card-desc .lawyer-profile li::after { content: "、"; }
+.team-card-desc .lawyer-profile li:last-child::after { content: ""; }
+
 /* ── Collapsible TOC ─────────────────────────────────────── */
 .post__toc {
   background: #f8fafc;
